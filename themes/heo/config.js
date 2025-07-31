@@ -25,7 +25,7 @@ const CONFIG = {
   HEO_HERO_TITLE_5: '十一创导航网站欢迎您',
   HEO_HERO_TITLE_LINK: 'https://moumou-eleven.github.io/yang-hub/yang-hub/index.html',
   // 英雄区遮罩文字
-  HEO_HERO_COVER_TITLE: '随机观文',
+  HEO_HERO_COVER_TITLE: '随便看看',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '文章收录', url: '/tag/文章收录' },
@@ -39,13 +39,10 @@ const CONFIG = {
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
-    '你好！我是杨建委YJW',
+    '你好！我是',
     '🔍 分享与热心帮助',
-    '🤝 专修交互与设计',
+    '🤝 专修AI与设计',
     '🏃 脚踏实地行动派',
-    '🏠 智能家居小能手',
-    '🤖️ 数码科技爱好者',
-    '🧱 团队小组发动机'
   ],
 
   // 个人资料底部按钮
